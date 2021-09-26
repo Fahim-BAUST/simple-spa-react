@@ -1,0 +1,15 @@
+.my-group{
+    text-align: center;
+    
+}
+
+.head{
+    background-color: lightslategrey;
+    padding: 4px 3px;
+    border-radius: 5px;
+
+}
+
+span{
+    color: blue;
+}

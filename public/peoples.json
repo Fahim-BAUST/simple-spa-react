@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "TenZ",
+    "role": "Duelist",
+    "country": "Canada",
+    "main": "Jett",
+    "price": 100,
+    "img": "https://www.esportsbets.com/wp-content/uploads/2021/04/TenZ.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Asuna",
+    "role": "Duelist",
+    "country": "USA",
+    "main": "Raze",
+    "price": 90,
+    "img": "https://www.esportsbets.com/wp-content/uploads/2021/04/Asuna.jpg"
+  },
+  {
+    "id": 3,
+    "name": "SicK",
+    "role": "Duelist",
+    "country": "Australia",
+    "main": "Phoenix",
+    "price": 85,
+    "img": "https://www.esportsbets.com/wp-content/uploads/2021/04/Hunter-_SicK_-Mims.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Babybay",
+    "role": "Duelist",
+    "country": "USA",
+    "main": "Jett",
+    "price": 83,
+    "img": "https://www.esportsbets.com/wp-content/uploads/2021/04/Andrej-_babybay_-Francisty-1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Zyppan",
+    "role": "Sentinel",
+    "country": "Sweden",
+    "main": "Sage",
+    "price": 79,
+    "img": "https://www.esportsbets.com/wp-content/uploads/2021/06/top-10-valorant-players-zyppan.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Hiko",
+    "role": "Sentinel",
+    "country": "France",
+    "main": "Sova",
+    "price": 75,
+    "img": "https://www.esportsbets.com/wp-content/uploads/2021/04/Spencer-_Hiko_-Martin.jpg"
+  },
+  {
+    "id": 7,
+    "name": "ShahZaM",
+    "role": "Duelist",
+    "country": "Canada",
+    "main": "Jett",
+    "price": 76,
+    "img": "https://www.esportsbets.com/wp-content/uploads/2021/04/Shahzeb-_ShahZaM_-Khan.jpg"
+  }
+]

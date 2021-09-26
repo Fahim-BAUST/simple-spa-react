@@ -1,0 +1,17 @@
+.Groups-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.product-container {
+    border-right: 1px solid lightgray;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-left:20px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: rgb(231, 231, 231);
+}
+
+.cart-container{
+    background-color: rgb(231, 231, 231);
+}
