@@ -59,7 +59,34 @@
     "role": "Duelist",
     "country": "Canada",
     "main": "Jett",
-    "price": 76,
+    "price": 85,
     "img": "https://www.esportsbets.com/wp-content/uploads/2021/04/Shahzeb-_ShahZaM_-Khan.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Steel",
+    "role": "Controller",
+    "country": "Canada",
+    "main": "Killjoy",
+    "price": 81,
+    "img": "https://www.esportsbets.com/wp-content/uploads/2021/04/Joshua-_steel_-Nissan.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Wardell",
+    "role": "Duelist",
+    "country": "Canada",
+    "main": "Jett",
+    "price": 91,
+    "img": "https://www.esportsbets.com/wp-content/uploads/2021/06/best-valorant-player-wardell.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Mixwell",
+    "role": "Sentinel",
+    "country": "Canada",
+    "main": "Skye",
+    "price": 71,
+    "img": "https://www.esportsbets.com/wp-content/uploads/2021/09/valorant-best-player-mixwell.jpg"
   }
 ]
