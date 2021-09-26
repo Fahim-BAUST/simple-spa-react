@@ -1,5 +1,5 @@
 # Welcome to My APP
-#### Project Nmae: ### MAKE TEAM
+#### Project Nmae:  MAKE TEAM
 LIVE LINK : [ App](https://nifty-rosalind-7c2784.netlify.app/)
 #### About: 
 * Build your team
