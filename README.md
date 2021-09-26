@@ -1,3 +1,15 @@
+# Welcome to My APP
+#### Project Nmae: ### MAKE TEAM
+LIVE LINK : [ App](https://nifty-rosalind-7c2784.netlify.app/)
+#### About: 
+* Build your team
+* BUdget Friendly
+* Better ui
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
